@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role:
+role: Reserach Fellow
 
 # Organizations/Affiliations
 organizations:
-- name: University of Bristol
+- name: Department of Philosophy, University of Bristol
 
 # Short bio (displayed in user profile at end of posts)
 bio:
@@ -30,22 +30,28 @@ interests:
 
 education:
   courses:
-  - course: Marie Sklodowska-Curie Individual Fellow
+#  - job: Research Fellow and PI of the ERC starting grant 'Truth and Semantics'.
+#    institution: University of Bristol
+  - job: Marie Sklodowska-Curie Individual Fellow
     institution: University of Bristol
-  - course: Postdoctoral Fellow
-    institution: Munich Center for Mathematical Philosophy (LMU Munich)
+  - job: Postdoctoral Fellow
+    institution: "[Munich Center for Mathematical Philosophy](http://www.mcmp.philosophie.uni-muenchen.de/index.html) (LMU Munich)"
   - course: PhD
     institution: University of Geneva
     year:
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
-- Principal Investigators
+# user_groups:
+# - Principal Investigators
+
+# CCM: URL to replace author/admin if it tries to introduce that.
+# external_link: /
+
 ---
 
-I am currently a Research Fellow and a permanent member of staff at the [Department of Philosophy of the University of Bristol](https://www.bristol.ac.uk/philosophy).
+I am a Research Fellow at the [Department of Philosophy](https://www.bristol.ac.uk/philosophy) of the University of Bristol, where I have a permanent position.
 
-I am also the PI of the project Truth and Semantics funded by an ERC Starting Grant.
+I am also the Principal Investigator of the project [Truth and Semantics]() funded by an [ERC Starting Grant]().
 
-Previously, I held positions as a Marie Sklodowska-Curie Individual Fellow in Bristol and as a postdoctoral fellow at the [Munich Center for Mathematical Philosophy](http://www.mcmp.philosophie.uni-muenchen.de/index.html) (LMU Munich).
+Much of my research..........

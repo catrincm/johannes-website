@@ -92,12 +92,21 @@
         <ul class="ul-edu fa-ul">
           {{ range .courses }}
           <li>
+            {{ if .course }}
             <i class="fa-li fas fa-graduation-cap"></i>
             <div class="description">
               <p class="course">{{ .course }}{{ with .year }}, {{ . }}{{ end }}</p>
               <p class="institution">{{ .institution }}</p>
             </div>
-          </li>
+            {{ end }}
+            {{ if .job }}
+            <i class="fa-li fas fa-university"></i>
+            <div class="description">
+              <p class="course">{{ .job | markdownify }}{{ with .year }}, {{ . }}{{ end }}</p>
+              <p class="institution">{{ .institution | markdownify }}</p>
+            </div>
+            {{ end }}
+           </li>
           {{ end }}
         </ul>
       </div>
