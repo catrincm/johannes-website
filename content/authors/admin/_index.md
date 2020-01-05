@@ -30,10 +30,13 @@ interests:
 
 education:
   courses:
+  - course: Marie Sklodowska-Curie Individual Fellow
+    institution: University of Bristol
+  - course: Postdoctoral Fellow
+    institution: Munich Center for Mathematical Philosophy (LMU Munich)
   - course: PhD
     institution: University of Geneva
     year:
-
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
