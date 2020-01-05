@@ -45,11 +45,7 @@ abstract: "
 
 # Summary. A shortened abstract for the summary pages.
 summary: "We explore the middle ground between the strong Kleene
-and the supervaluation scheme as used in Kripke's theory of truth.
-We provide an evaluation scheme that adheres to
-classical reasoning but retains many of the attractive features of the strong Kleene
-scheme. We supplement our semantic investigation with a novel axiomatic theory of
-truth that matches the semantic theory we have put forth."
+and the supervaluation scheme as used in Kripke's theory of truth."
 
 # Tags. Optional for organization.
 tags:

@@ -28,7 +28,7 @@ Stern also develops a general strategy for constructing philosophically attracti
 "
 
 # Summary. An optional shortened abstract.
-summary: "Offers the first book-length discussion of predicate approaches to modality."
+summary: "We argue that the right way to logically analyze modalities from natural language within formal languages is by formalizing them as predicates. We then consider how to deal with the resultant paradoxes."
 
 tags:
 -
