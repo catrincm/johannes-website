@@ -96,14 +96,14 @@
             <i class="fa-li fas fa-graduation-cap"></i>
             <div class="description">
               <p class="course">{{ .course }}{{ with .year }}, {{ . }}{{ end }}</p>
-              <p class="institution">{{ .institution }}</p>
+              <p class="institution"><a href="{{ .linkinstitution }}" > {{ .institution }}</a></p>
             </div>
             {{ end }}
             {{ if .job }}
             <i class="fa-li fas fa-university"></i>
             <div class="description">
-              <p class="course">{{ .job | markdownify }}{{ with .year }}, {{ . }}{{ end }}</p>
-              <p class="institution">{{ .institution | markdownify }}</p>
+              <p class="course">{{ .job }}{{ with .year }}, {{ . }}{{ end }}</p>
+              <p class="institution"><a href="{{ .linkinstitution }}" > {{ .institution }}</a></p>
             </div>
             {{ end }}
            </li>

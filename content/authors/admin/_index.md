@@ -33,11 +33,14 @@ education:
 #  - job: Research Fellow and PI of the ERC starting grant 'Truth and Semantics'.
 #    institution: University of Bristol
   - job: Marie Sklodowska-Curie Individual Fellow
-    institution: University of Bristol
+    institution: "University of Bristol"
+    linkinstitution: "http://www.bristol.ac.uk/philosophy/"
   - job: Postdoctoral Fellow
-    institution: "[Munich Center for Mathematical Philosophy](http://www.mcmp.philosophie.uni-muenchen.de/index.html) (LMU Munich)"
+    institution: "Munich Center for Mathematical Philosophy (LMU Munich)"
+    linkinstitution: "http://www.mcmp.philosophie.uni-muenchen.de/index.html"
   - course: PhD
-    institution: University of Geneva
+    institution: "University of Geneva"
+    linkinstitution: "https://www.unige.ch/lettres/philo/en/homepage/"
     year:
 
 # Organizational groups that you belong to (for People widget)
@@ -53,5 +56,3 @@ education:
 I am a Research Fellow at the [Department of Philosophy](https://www.bristol.ac.uk/philosophy) of the University of Bristol, where I have a permanent position.
 
 I am also the Principal Investigator of the project [Truth and Semantics]() funded by an [ERC Starting Grant]().
-
-Much of my research..........
