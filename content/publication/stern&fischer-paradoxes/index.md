@@ -33,7 +33,7 @@ summary: "We investigate whether paradoxes of multiple modalities are genuinely 
 “reduce” to the paradoxes of single modalities."
 
 
-
+url_preprint: IntRed13.pdf
 
 
 

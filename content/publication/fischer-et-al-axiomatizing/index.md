@@ -7,7 +7,7 @@ authors: [
 "[Johannes Stern](/)",
 ]
 date: 2015-01-26
-featured: false
+featured: true
 doi: "10.1017/S1755020314000379"
 
 
@@ -33,11 +33,8 @@ summary: "We ask under which conditions an axiomatic theory of truth captures a 
 tags:
 -
 
-featured: false
 
-links:
-- name: "Publisher Link"
-  url: "https://doi.org/10.1017/S1755020314000057"
+
 
 
 
