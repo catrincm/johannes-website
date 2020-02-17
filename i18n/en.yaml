@@ -175,6 +175,9 @@
 - id: pub_review
   translation: Book review
 
+- id: pub_other
+  translation: Other
+
 # Project details
 
 - id: open_project_site
