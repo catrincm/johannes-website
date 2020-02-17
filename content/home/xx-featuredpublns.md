@@ -5,11 +5,14 @@
 
 widget = "featured"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
-weight = 80  # Order that this section will appear.
+active = true  # Activate this widget? true/false
+weight = 50  # Order that this section will appear.
 
 title = "Featured Publications"
 subtitle = ""
+
+# To include a "See all" link which links to all publications etc set `link_to_more` to "true" (uncomment the below)
+link_to_more = true
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
