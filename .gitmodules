@@ -1,6 +1,7 @@
 [submodule "themes/academic"]
 	path = themes/academic
 	url = https://github.com/gcushen/hugo-academic.git
+	ignore = dirty
 [submodule "public"]
 	path = public
 	url = https://github.com/johannesstern/johannesstern.github.io.git
