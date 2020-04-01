@@ -55,4 +55,4 @@ education:
 
 I am a Research Fellow at the [Department of Philosophy](https://www.bristol.ac.uk/philosophy) of the University of Bristol, where I have a permanent position.
 
-I am also the Principal Investigator of the project [Truth and Semantics](https://truthandsemantics.netlify.com/) funded by an [ERC Starting Grant](https://erc.europa.eu/funding/starting-grants).
+I am also the Principal Investigator of the project [Truth and Semantics](https://truthandsemantics.netlify.app/) funded by an [ERC Starting Grant](https://erc.europa.eu/funding/starting-grants).
