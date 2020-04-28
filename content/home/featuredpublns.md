@@ -24,6 +24,8 @@ link_to_more = true
   # Page order. Descending (desc) or ascending (asc) date.
   order = "desc"
 
+  link_to_archive = true
+
   # Filter posts by a taxonomy term.
   [content.filters]
     tag = ""
