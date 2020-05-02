@@ -95,15 +95,33 @@
             {{ if .course }}
             <i class="fa-li fas fa-graduation-cap"></i>
             <div class="description">
-              <p class="course">{{ .course }}{{ with .year }}, {{ . }}{{ end }}</p>
-              <p class="institution"><a href="{{ .linkinstitution }}" > {{ .institution }}</a></p>
+              <p class="course">{{ .course }}</p>
+              <p class="institution">
+                {{ if .url_institution }}
+                  <a href="{{ .url_institution }}" > {{ .institution }}</a>
+                {{ else }}
+                  {{ .institution }}
+                {{ end }}
+                {{ if .year }}
+                    <br>{{ .year }}
+                {{ end }}
+              </p>
             </div>
             {{ end }}
             {{ if .job }}
             <i class="fa-li fas fa-university"></i>
             <div class="description">
-              <p class="course">{{ .job }}{{ with .year }}, {{ . }}{{ end }}</p>
-              <p class="institution"><a href="{{ .linkinstitution }}" > {{ .institution }}</a></p>
+              <p class="course">{{ .job }}</p>
+              <p class="institution">
+                {{ if .url_institution }}
+                  <a href="{{ .url_institution }}"> {{ .institution }}</a>
+                {{ else }}
+                  {{ .institution }}
+                {{ end }}
+              {{ if .year }}
+                  <br>{{ .year }}
+              {{ end }}
+            </p>
             </div>
             {{ end }}
            </li>
@@ -111,6 +129,8 @@
         </ul>
       </div>
       {{ end }}
+
+
 
     </div>
   </div>

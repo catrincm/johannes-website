@@ -32,17 +32,20 @@ education:
   courses:
   - job: Research Fellow (permanent position)
     institution: Department of Philosophy, University of Bristol
-    linkinstitution: "http://www.bristol.ac.uk/philosophy/"
+    url_institution: "http://www.bristol.ac.uk/philosophy/"
+    year: 2018–
   - job: Marie Sklodowska-Curie Individual Fellow
     institution: Department of Philosophy, University of Bristol
-    linkinstitution: "http://www.bristol.ac.uk/philosophy/"
+    url_institution: "http://www.bristol.ac.uk/philosophy/"
+    year: 2016–18
   - job: Research Fellow
     institution: "Munich Center for Mathematical Philosophy (LMU Munich)"
-    linkinstitution: "http://www.mcmp.philosophie.uni-muenchen.de/index.html"
+    url_institution: "http://www.mcmp.philosophie.uni-muenchen.de/index.html"
+    year: 2011–16
   - course: PhD
     institution: "University of Geneva"
-    linkinstitution: "https://www.unige.ch/lettres/philo/en/homepage/"
-    year:
+    url_institution: "https://www.unige.ch/lettres/philo/en/homepage/"
+    year: 2012
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
