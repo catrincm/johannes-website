@@ -1,6 +1,6 @@
 ---
 title: "Epistemische Logik"
-authors: ["[Johannes Stern](/)"]
+authors: ["Johannes Stern"]
 
 date: 2019-01-26
 featured: false

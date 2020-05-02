@@ -1,7 +1,7 @@
 ---
 title: "Supervaluation-Style Truth Without Supervaluations"
 authors: [
-  "[Johannes Stern](/)",
+  "Johannes Stern",
 ]
 date: 2018-01-01
 doi: "10.1007/s10992-017-9451-0"

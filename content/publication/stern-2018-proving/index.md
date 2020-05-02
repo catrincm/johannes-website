@@ -1,7 +1,7 @@
 ---
 title: "Proving that the Mind is Not a machine?"
 authors: [
-  "[Johannes Stern](/)",
+  "Johannes Stern",
 ]
 date: 2018-01-01
 doi: "10.1002/tht3.271"

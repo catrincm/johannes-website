@@ -1,10 +1,10 @@
 ---
 title: "Axiomatizing Semantic Theories of Truth"
 authors: [
-"[Martin Fischer](https://www.mcmp.philosophie.uni-muenchen.de/people/faculty/martin_fischer/index.html)",
-"[Volker Halbach](http://users.ox.ac.uk/~sfop0114/)",
+"Martin Fischer",
+"Volker Halbach",
 "Jönne Kriener",
-"[Johannes Stern](/)",
+"Johannes Stern",
 ]
 date: 2015-01-26
 featured: true

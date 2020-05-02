@@ -1,7 +1,7 @@
 ---
 title: "Modality and Axiomatic Theories of Truth I: Friedman-Sheard"
 authors: [
-"[Johannes Stern](/)"
+"Johannes Stern"
 ]
 date: 2014-06-01
 featured: false

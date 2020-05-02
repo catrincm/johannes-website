@@ -1,7 +1,7 @@
 ---
 title: "Book Review of 'Miloš Adžić and Kosta Došen, eds, Gödel's Basic Logic Course at Notre Dame'"
 authors: [
-  "[Johannes Stern](/)",
+  "Johannes Stern",
 ]
 date: 2019-01-01
 doi: "10.1111/1746-8361.12247"

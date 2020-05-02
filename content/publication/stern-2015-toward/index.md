@@ -1,7 +1,7 @@
 ---
 title: "Toward Predicate Approaches to Modality"
 authors: [
-"[Johannes Stern](/)",
+"Johannes Stern",
 ]
 date: 2015-06-01
 featured: true

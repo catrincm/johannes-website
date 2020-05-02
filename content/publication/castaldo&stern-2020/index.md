@@ -1,7 +1,8 @@
 ---
 title: "KF, PKF, and Reinhardt's Program"
 authors: [
-  "[Luca Castaldo and Johannes Stern](/)",
+  "Luca Castaldo",
+  "Johannes Stern",
 ]
 date: 2020-01-02
 #doi: "arXiv:1704.08283"

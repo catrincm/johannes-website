@@ -1,7 +1,7 @@
 ---
 title: "Modality and Axiomatic Theories of Truth II: Kripke-Feferman"
 authors: [
-"[Johannes Stern](/)"
+"Johannes Stern"
 ]
 date: 2014-06-01
 publication: "*The Review of Symbolic Logic*"

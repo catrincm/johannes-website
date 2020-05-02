@@ -1,7 +1,8 @@
 ---
 title: "The Modal Logics of Kripke-Feferman"
 authors: [
-  "[Carlo Nicolai and Johannes Stern](/)",
+  "Carlo Nicolai",
+  "Johannes Stern",
 ]
 date: 2020-01-01
 #doi: "arXiv:1704.08283"

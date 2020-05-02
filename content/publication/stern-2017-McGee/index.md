@@ -1,7 +1,7 @@
 ---
 title: "A Note on McGee's ω-Inconsistency Result"
 authors: [
-  "[Johannes Stern](/)",
+  "Johannes Stern",
 ]
 date: 2017-01-01
 #doi: "arXiv:1704.08283"

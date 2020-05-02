@@ -1,8 +1,8 @@
 ---
 title: "Paradoxes of Interaction?"
 authors: [
-  "[Johannes Stern](/)",
-  "[Martin Fischer](https://www.mcmp.philosophie.uni-muenchen.de/people/faculty/martin_fischer/index.html)"
+  "Johannes Stern",
+  "Martin Fischer"
 ]
 date: 2014-06-07
 doi: "10.1007/s10992-014-9319-5"

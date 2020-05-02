@@ -1,6 +1,6 @@
 ---
 title: "Penrose New Argument and Paradox"
-authors: ["[Johannes Stern](/)"]
+authors: ["Johannes Stern"]
 
 date: 2018-01-26
 featured: false

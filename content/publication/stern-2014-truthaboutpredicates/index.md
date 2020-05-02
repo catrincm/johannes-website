@@ -1,6 +1,6 @@
 ---
 title: "The Truth about Predicates and Connectives"
-authors: ["[Johannes Stern](/)"]
+authors: ["Johannes Stern"]
 
 date: 2014-01-26
 featured: false
