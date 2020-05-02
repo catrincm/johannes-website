@@ -30,12 +30,13 @@ interests:
 
 education:
   courses:
-#  - job: Research Fellow and PI of the ERC starting grant 'Truth and Semantics'.
-#    institution: University of Bristol
-  - job: Marie Sklodowska-Curie Individual Fellow
-    institution: "University of Bristol"
+  - job: Research Fellow (permanent position)
+    institution: Department of Philosophy, University of Bristol
     linkinstitution: "http://www.bristol.ac.uk/philosophy/"
-  - job: Postdoctoral Fellow
+  - job: Marie Sklodowska-Curie Individual Fellow
+    institution: Department of Philosophy, University of Bristol
+    linkinstitution: "http://www.bristol.ac.uk/philosophy/"
+  - job: Research Fellow
     institution: "Munich Center for Mathematical Philosophy (LMU Munich)"
     linkinstitution: "http://www.mcmp.philosophie.uni-muenchen.de/index.html"
   - course: PhD
