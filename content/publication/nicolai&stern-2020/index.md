@@ -37,7 +37,7 @@ tags:
 
 featured: false
 
-url_pdf: "https://arxiv.org/abs/2004.07275"
+url_pdf: "https://arxiv.org/pdf/2004.07275.pdf"
 
 
 # Associated Projects (optional).
