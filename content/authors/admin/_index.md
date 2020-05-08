@@ -34,7 +34,7 @@ education:
     institution: Department of Philosophy, University of Bristol
     url_institution: "http://www.bristol.ac.uk/philosophy/"
     year: 2018–
-  - job: Marie Sklodowska-Curie Individual Fellow
+  - job: Marie Skłodowska-Curie Individual Fellow
     institution: Department of Philosophy, University of Bristol
     url_institution: "http://www.bristol.ac.uk/philosophy/"
     year: 2016–18
