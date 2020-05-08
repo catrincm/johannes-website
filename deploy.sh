@@ -1,5 +1,7 @@
 #!/bin/sh
 
+# See https://gohugo.io/hosting-and-deployment/hosting-on-github/
+
 # If a command fails then the deploy stops
 set -e
 
