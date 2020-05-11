@@ -98,7 +98,7 @@
               <p class="course">{{ .course }}</p>
               <p class="institution">
                 {{ if .url_institution }}
-                  <a href="{{ .url_institution }}" > {{ .institution }}</a>
+                <a href="{{ .url_institution }}" target="_blank" rel="noopener">{{ .institution }}</a>
                 {{ else }}
                   {{ .institution }}
                 {{ end }}
@@ -114,7 +114,7 @@
               <p class="course">{{ .job }}</p>
               <p class="institution">
                 {{ if .url_institution }}
-                  <a href="{{ .url_institution }}"> {{ .institution }}</a>
+                <a href="{{ .url_institution }}" target="_blank" rel="noopener">{{ .institution }}</a>
                 {{ else }}
                   {{ .institution }}
                 {{ end }}
