@@ -25,5 +25,5 @@ Editing content:
 - Don't edit files in `themes\academic`. To modify the theme create a \`local\` version of the folder from `themes\academic`. E.g. in `layouts` there's code that overwrites the theme.
 
 To deploy:
-- For truthandsemantics website, just push changes to the master branch on GitHub desktop. Netlify will automatically push it to truthandsemantics.xyz.
-- For johannes-website you also need to run deploy.sh from terminal: `bash deploy.sh`. This will then push the changes from the johannes-website repo to johannesstern.github.io.
+- Push changes to the master branch using GitHub desktop. 
+- For johannes-website, Catrin needs to run deploy.sh from terminal: `bash deploy.sh`. This will then push the changes from the johannes-website repo to johannesstern.github.io. For truthandsemantics, Netlify automatically does it.
