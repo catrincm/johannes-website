@@ -2,7 +2,7 @@
 title: "Semantic Singularities: Paradoxes of Reference, Predication and Truth. By Keith Simmons"
 authors: ["Johannes Stern"]
 
-date: 2020-08-08
+date: 2020-01-01
 
 
 

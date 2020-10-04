@@ -4,7 +4,7 @@ authors: [
   "Carlo Nicolai",
   "Johannes Stern",
 ]
-date: 2020-01-01
+date: 2020-01-02
 #doi: "arXiv:1704.08283"
 
 
@@ -37,7 +37,7 @@ tags:
 
 featured: true
 
-url_pdf: "https://arxiv.org/pdf/2004.07275.pdf"
+url_preprint: "https://arxiv.org/pdf/2004.07275.pdf"
 
 
 # Associated Projects (optional).

@@ -3,7 +3,7 @@ title: "Montague's Theorem and Modal Logic"
 authors: [
   "Johannes Stern",
 ]
-date: 2014-01-01
+date: 2014-01-27
 doi: "10.1007/s10670-013-9523-7"
 
 
