@@ -1,5 +1,5 @@
 ---
-title: "The Modal Logics of Kripke-Feferman"
+title: "The Modal Logics of Kripke-Feferman Truth"
 authors: [
   "Carlo Nicolai",
   "Johannes Stern",
