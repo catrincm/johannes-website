@@ -58,7 +58,7 @@ and the supervaluation scheme as used in Kripke's theory of truth."
 tags:
 -
 
-featured: true
+featured: false
 
 url_preprint: sv.pdf
 

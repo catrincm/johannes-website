@@ -2,7 +2,7 @@
 title: "A Guide to the Unified Approach to Truth, Modality, and Paradox"
 authors: ["Carlo Nicolai and Johannes Stern"]
 
-date: 2020-01-05
+date: 2021-03-30
 
 
 
@@ -22,7 +22,7 @@ date: 2020-01-05
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "to appear in _Modes of Truth. The Unified Approach to Modality, Truth, and Paradox_; Nicolai, C. and Stern, J. (eds.), Routledge."
+publication: "Chapter 1 in _Modes of Truth. The Unified Approach to Modality, Truth, and Paradox_; Nicolai, C. and Stern, J. (eds.), Routledge, 2021. Open Access Publication"
 
 abstract: "In this introduction the main themes of what we call the Unified Approach to Truth, Modality, and Paradox are surveyed. The chapter starts by motivating the idea of treating the objects of truth, modality, and attitudes as first-order objects. The chapter then analyses the theoretical role that the truth predicate plays in the Unified Approach, comparing its traditional semantic role and its logico-linguistic purposes investigated by disquotationalism. Next, the interaction of modal and doxastic notions with truth is considered: the basic strategies to generalize possible world semantics to modal and doxastic notions formalized as predicates is introduced, and possible extensions and applications of the semantics are discussed. Finally, we compare the first-order approach to other ways of realizing a unified approach, in particular by means of higher-order quantification."
 
@@ -35,7 +35,7 @@ tags:
 
 featured: false
 
-url_preprint: intro.pdf
+url_pdf: "https://www.taylorfrancis.com/chapters/oa-edit/10.4324/9780429030208-1/guide-unified-approach-truth-modality-paradox-carlo-nicolai-johannes-stern?context=ubx&refId=1ecbe590-dd36-4ecc-ab4d-ef906234b283"
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
