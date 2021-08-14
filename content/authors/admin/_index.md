@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Reserach Fellow
+role: Research Fellow
 
 # Organizations/Affiliations
 organizations:
