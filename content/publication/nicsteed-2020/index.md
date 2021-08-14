@@ -1,6 +1,7 @@
 ---
-title: "Modes of Truth. The Unified Approach to Truth, Modality, and Paradox"
-authors: ["Carlo Nicolai and Johannes Stern (eds.)"]
+title: "Modes of Truth"
+subtitle: "The Unified Approach to Truth, Modality, and Paradox"
+authors: ["Carlo Nicolai and Johannes Stern (eds)"]
 
 date: 2021-03-31
 
