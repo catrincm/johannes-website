@@ -27,3 +27,15 @@ Editing content:
 To deploy:
 - Push changes to the master branch using GitHub desktop. 
 - For johannes-website, Catrin needs to run deploy.sh from terminal: `bash deploy.sh`. This will then push the changes from the johannes-website repo to johannesstern.github.io. For truthandsemantics, Netlify automatically does it.
+
+
+
+
+----------
+Troubeshooting
+
+`Error: from config: failed to resolve output format "headers" from site config`
+In the terminal type `open $TMPDIR`.
+Simply delete the folder called `hugo_cache`
+Then all should be fixed and you shoud be able to run `hugo server` now without problems.
+See https://wowchemy.com/docs/hugo-tutorials/troubleshooting/#error-failed-to-resolve-output-format
