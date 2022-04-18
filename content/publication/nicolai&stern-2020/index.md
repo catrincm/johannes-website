@@ -4,8 +4,8 @@ authors: [
   "Carlo Nicolai",
   "Johannes Stern",
 ]
-date: 2020-01-02
-#doi: "arXiv:1704.08283"
+date: 2021-03-01
+doi: "10.1017/jsl.2020.66"
 
 
 # Publication type.
@@ -24,7 +24,7 @@ date: 2020-01-02
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: To appear in the _Journal of Symbolic Logic_.
+publication: Journal of Symbolic Logic
 
 abstract: "We determine the modal logic of fixed-point models of truth and their axiomatizations by Solomon Feferman via Solovay-style completeness results. Given a fixed-point model *M, or an axiomatization S thereof, we find a modal logic M such that a modal sentence φ is a theorem of M if and only if the sentence φ∗ obtained by translating the modal operator with the truth predicate is true in *M or a theorem of S under all such translations. To this end, we introduce a novel version of possible worlds semantics featuring both classical and nonclassical worlds and establish the completeness of a family of non-congruent modal logics whose internal logic is subclassical with respect to this semantics."
 
@@ -37,7 +37,7 @@ tags:
 
 featured: true
 
-url_preprint: "https://arxiv.org/pdf/2004.07275.pdf"
+url_preprint: "KF_JSL_Final.pdf"
 
 
 # Associated Projects (optional).
