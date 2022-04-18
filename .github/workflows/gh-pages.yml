@@ -30,7 +30,7 @@ jobs:
         uses: peaceiris/actions-gh-pages@v3
         if: github.ref == 'refs/heads/master'
         with:
-          deploy_key: ${{ secrets.ACTIONS_DEPLOY_KEY }}
+          personal_token: ${{ secrets.push-johannes-website }}
           external_repository: johannesstern/johannesstern.github.io
           publish_branch: master
           publish_dir: ./public
