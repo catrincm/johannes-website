@@ -1,6 +1,6 @@
 The repository for https://johannesstern.github.io/, the academic website for Johannes Stern
 
-Created with [academic for hugo](https://sourcethemes.com/academic/)
+Created with [wowchemy for hugo](https://wowchemy.com/)
 
 # How to use:
 
@@ -24,15 +24,20 @@ Editing content:
 - Most content is located in `content` folder. Some settings are in `config` folder.
 - Don't edit files in `themes\academic`. To modify the theme create a \`local\` version of the folder from `themes\academic`. E.g. in `layouts` there's code that overwrites the theme.
 
-To deploy:
-- Push changes to the master branch using GitHub desktop. 
-- For johannes-website, Catrin needs to run deploy.sh from terminal: `bash deploy.sh`. This will then push the changes from the johannes-website repo to johannesstern.github.io. For truthandsemantics, Netlify automatically does it.
+To deploy, simply push changes to the master branch using GitHub desktop.
+- For truthandsemantics website, this will then trigger Netlify to automatically do it.
+- For johannes-website, it is running a github action, see `gh-pages.yml`
+
+
+To update
+- See https://wowchemy.com/docs/hugo-tutorials/update/
+- Update `hugo-version` in `gh-pages.yml` for johannes-website.
 
 
 
 
 ----------
-Troubeshooting
+Troubleshooting
 
 `Error: from config: failed to resolve output format "headers" from site config`
 In the terminal type `open $TMPDIR`.
