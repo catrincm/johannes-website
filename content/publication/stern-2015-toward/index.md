@@ -7,6 +7,9 @@ date: 2015-06-01
 featured: true
 doi: "10.1007/978-3-319-22557-9"
 
+links:
+ - name: "Email me for a copy"
+   url: "mailto:johannes.stern@bristol.ac.uk"
 
 # Publication type.
 # 0 = Uncategorized;
