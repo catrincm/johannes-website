@@ -30,10 +30,14 @@ interests:
 
 education:
   courses:
-  - job: Research Fellow (permanent position)
+  - job: Senior Lecturer
     institution: Department of Philosophy, University of Bristol
     url_institution: "http://www.bristol.ac.uk/philosophy/"
-    year: 2018–
+    year: 2023–
+  - job: Research Fellow
+    institution: Department of Philosophy, University of Bristol
+    url_institution: "http://www.bristol.ac.uk/philosophy/"
+    year: 2018–23
   - job: Marie Skłodowska-Curie Individual Fellow
     institution: Department of Philosophy, University of Bristol
     url_institution: "http://www.bristol.ac.uk/philosophy/"
@@ -57,7 +61,6 @@ education:
 
 ---
 
-I am a Research Fellow at the [Department of Philosophy](https://www.bristol.ac.uk/philosophy) of the University of Bristol, where I have a permanent position.
-I am also the Principal Investigator of the project [Truth and Semantics](https://truthandsemantics.xyz/) funded by an [ERC Starting Grant](https://erc.europa.eu/funding/starting-grants).
+I am a Senior Lecturer at the [Department of Philosophy](https://www.bristol.ac.uk/philosophy) of the University of Bristol and the Principal Investigator of the project [Truth and Semantics](https://truthandsemantics.xyz/) funded by an [ERC Starting Grant](https://erc.europa.eu/funding/starting-grants).
 
 I specialize mostly in logic, in particular theories of truth and modality, and topics at the intersection of logic and the philosophy of language. I am also interested in the philosophy of mathematics, metaphysics, epistemology and general philosophy of science.
