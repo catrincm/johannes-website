@@ -35,7 +35,7 @@ summary: "We argue that Reinhardt's program has greater chances of success than 
 tags:
 -
 
-featured: true
+featured: false
 
 #url_pdf: "https://arxiv.org/pdf/2005.01054.pdf"
 

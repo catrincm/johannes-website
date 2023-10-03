@@ -34,7 +34,7 @@ summary: "The aim of this volume is to open up new perspectives and to raise new
 tags:
 -
 
-featured: true
+featured: false
 
 doi: "10.4324/9780429030208"
 

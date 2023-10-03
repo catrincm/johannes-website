@@ -33,7 +33,7 @@ summary: "The paper proposes a strategy for understanding metaphysical grounding
 tags:
 -
 
-featured: true
+featured: false
 #url_pdf: "https://doi.org/10.1080/0020174X.2022.2138964"
 url_preprint: Becfin.pdf
 
