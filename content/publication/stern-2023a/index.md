@@ -1,5 +1,5 @@
 ---
-title: "Logic of Truth and Maximality"
+title: "Logics of Truth and Maximality"
 authors: ["Johannes Stern"]
 
 date: 2023-10-03
