@@ -63,6 +63,6 @@ education:
 
 I am a Senior Lecturer at the [Department of Philosophy](https://www.bristol.ac.uk/philosophy) of the University of Bristol. I specialize mostly in logic, in particular theories of truth and modality, and topics at the intersection of logic and the philosophy of language. I am also interested in the philosophy of mathematics, metaphysics, epistemology and general philosophy of science.
 
-From October 2018 to September 2023 I was the Principal Investigator of the project [Truth and Semantics](https://truthandsemantics.xyz/) funded by an [ERC Starting Grant](https://erc.europa.eu/funding/starting-grants).
+I was the Principal Investigator of the project [Truth and Semantics](https://truthandsemantics.xyz/) funded by an [ERC Starting Grant](https://erc.europa.eu/funding/starting-grants) which ran from 2018 to 2023.
 
 I am also the Treasurer of the [British Logic Colloquium](https://www.blc-logic.org/).
