@@ -52,7 +52,7 @@ abstract: "
 
 # Summary. A shortened abstract for the summary pages.
 summary: "We explore the middle ground between the strong Kleene
-and the supervaluation scheme as used in Kripke's theory of truth."
+and the supervaluation scheme as used in Kripke's theory of truth. The paper contains mistakes. Read in combination with https://johannesstern.github.io/publication/stern-2025/SST.pdf"
 
 # Tags. Optional for organization.
 tags:
