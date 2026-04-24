@@ -2,7 +2,7 @@
 title: "Doxastic Semantics and Ways of Believing"
 authors: ["Johannes Stern"]
 
-date: 2025-12-01
+date: 2026-05-01
 #doi: "10.1080/0020174X.2022.2138964"
 
 
@@ -19,15 +19,15 @@ date: 2025-12-01
 # 8 = Preprint / Working Paper;
 # 9 = Other
 
-publication_types: ["8"]
+publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-#publication: "Submitted"
+publication: "Synthese. Forthcoming"
 
-#abstract: "Supervaluational fixed-point semantics for truth cannot be axiomatized because of its recursion-theoretic complexity. Johannes Stern (_Supervaluation-Style Truth Without Supervaluations_, Journal of Philosophical Logic, 2018) proposed a new strategy (supervaluational-style truth) to capture the essential aspects of the supervaluational evaluation schema whilst limiting its recursion-theoretic complexity, hence resulting in ($\nat$-categorical) axiomatizations. Unfortunately, as we show in the paper, this strategy was not fully realized in Stern's original work: in fact, we provide counterexamples to some of Stern's key claims. However,  we also vindicate Stern's project by providing different semantic incarnations of the idea and corresponding $\nat$-categorical axiomatizations. The results provide a deeper picture of the relationships between standard supervaluationism and supervaluational-style truth."
+abstract: "Taking a discussion of Soames's argument to the effect that semantic contents cannot be identified with sets of truth-supporting circumstances as a starting point we develop a novel semantics for propositional attitude contexts, and more specifically for belief-reports, that implements contextualist ideas within the framework of possible world semantics."
 
 #Summary. A shortened abstract for the summary pages.
-#summary: "The paper revisits some ideas discussed in Johannes Stern's paper _Supervaluation-style Truth Without Supervaluations_ and corrects some mistakes of the original paper."
+summary: "We develop a novel semantics for propositional attitude contexts, and more specifically for belief-reports, that implements contextualist ideas within the framework of possible world semantics.."
 
 # Tags. Optional for organization.
 tags:
@@ -35,7 +35,7 @@ tags:
 
 featured: false
 #url_pdf: "https://doi.org/10.1080/0020174X.2022.2138964"
-url_preprint: DSWB.pdf
+url_preprint: DSWB26a.pdf
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
