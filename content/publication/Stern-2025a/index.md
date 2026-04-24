@@ -2,7 +2,7 @@
 title: "Doxastic Semantics and Ways of Believing"
 authors: ["Johannes Stern"]
 
-date: 2026-05-01
+date: 2026-04-01
 #doi: "10.1080/0020174X.2022.2138964"
 
 
