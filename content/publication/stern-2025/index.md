@@ -22,7 +22,7 @@ doi: "10.1007/s10992-025-09792-9"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Journal of Philosophical Logic. Forthcoming"
+publication: "Journal of Philosophical Logic"
 
 abstract: "In this paper we show how to introduce a conditional to Kripke's theory of truth that respects the deduction theorem for the consequence relation associated with the theory. To this effect we develop a novel supervaluational framework, called strong Kleene supervaluation, that we take to be a promising framework for handling the truth-conditions of non-monotone notion in the presence of semantic indeterminacy more generally."
 

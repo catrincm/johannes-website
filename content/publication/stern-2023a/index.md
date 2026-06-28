@@ -3,7 +3,7 @@ title: "Logics of Truth and Maximality"
 authors: ["Johannes Stern"]
 
 date: 2023-10-03
-#doi: "10.1080/0020174X.2022.2138964"
+doi: "10.1080/00048402.2024.2403096"
 
 
 # Publication type.
@@ -22,7 +22,7 @@ date: 2023-10-03
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Australasian Journal of Philosophy. Forthcoming"
+publication: "Australasian Journal of Philosophy"
 
 abstract: "The paper develops a precise account of a _logic of truth_ and, in particular, the logic of truth of a given truth theory. On the basis of this account maximality considerations are employed for comparing and evaluating different classical logics of truth. It is argued that, perhaps surprisingly, maximality considerations lead to a fruitful criterion for evaluating logics of truth. The paper provides two different routes for motivating the application of maximality considerations in the truth case. The first route employs the Maxim of Minimum Mutilation and suggests that we should vindicate as much of our basic truth intuition, i.e.~the transparency intuition, as it is consistently possible. The second route argues that maximality considerations underlie much of our logical theorizing and its application in the truth case is just one particular such instance. On this view maximality considerations do not implicitly depend on the basic truth intuition but rather explain how the intuition arises and why it is not fully reliable."
 
